@@ -10,7 +10,7 @@ const config = {
   ],
   output: {
     format: 'umd',
-    name: 'Goniometer',
+    name: 'Peakmeter',
     globals: {
       react: 'React',
     },
